@@ -1,2 +1,2 @@
-worker: python <YOUR_SCRIPT_NAME>.py
+worker: python bot.py
 
